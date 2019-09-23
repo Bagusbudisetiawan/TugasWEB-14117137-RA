@@ -1,0 +1,45 @@
+.kepala{
+	background:#DDDDDD;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	width: 1200px;
+	margin: 20px auto;
+    border : #CCC solid 1px;
+
+}
+.kepala .header {
+	background:rgb(194, 54, 54);
+	padding: 20px 30px;
+}
+#po{
+	font-size:16pt;
+	font-weight:400;
+}
+.navigator {
+	background-color:burlywood;
+	overflow:hidden;
+}
+.navigator a {
+	float:left;
+	display:block;
+	text-align:center;
+	padding:14px 19px;
+}
+footer{
+	background-color:grey;
+	height:30px;
+
+}
+section{
+	height:600px;
+
+}
+aside{
+	width:30%;
+	float:left;
+}
+content{
+	width:70%;
+	float:left;
+	background-color:lightgrey;
+	height:600px;
+}
